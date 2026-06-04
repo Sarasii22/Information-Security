@@ -1,0 +1,9 @@
+metric,value
+trials,500
+attack_success_rate,0.994
+detection_rate,0.994
+key_verification_accuracy,1.0
+standard_average_time_seconds,2.978324000000008e-06
+authenticated_average_time_seconds,4.576483999999829e-06
+computational_overhead_seconds_per_session,1.5981599999998208e-06
+computational_overhead_percent_increase,53.65970928615613
